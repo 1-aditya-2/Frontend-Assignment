@@ -12,12 +12,9 @@
 ### Installation
 
 1. Clone the repository
-```bash
-  git clone https://github.com/Priyanshu9898/Frontend-Assignment.git
-```
+
 2. Install dependencies 
 ```bash
-  cd Frontend-Assignment
   npm install
 ```
 3. Start the development server
