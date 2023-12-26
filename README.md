@@ -1,25 +1,13 @@
-# Dynamic Form Maker
-
-## Live Website: https://frontend-assignment-orcin.vercel.app/
-
-#### Example form JSON Schema 1: https://drive.google.com/file/d/1RUU_ueF9BbQRLReuX88w8PWe2jsz3Z3C/view
-
-#### Example form JSON Schema 2: https://drive.google.com/file/d/19_E6dSDUbiDR31wNSSvUARHxh1HeT6L4/view
+## Deployed Website: https://frontend-assignment-pi-sable.vercel.app/
 
 ## Project Description:
-  The goal of this application is to create a React application that converts a json UI schema into a form component and render it live on the screen.
-  The React application will have two main components: the JSON editor component and the form preview component. 
-  The JSON editor component will allow users to paste the UI-Schema in JSON format on the left-hand side. The form preview component will automatically render the form based on the pasted UI-Schema and display it on the right-hand side.
+   A React application that will allow users to paste a UI schema on the left side and preview the rendered form on the right-hand side. The application will have a     single screen which will be divided into two equal sections next to each other. On the left section will be a JSON editor to paste the UI-Schema. On the right        section, a form will be automatically rendered based on the pasted UI-Schema.
 
 ## Tech Stack
 
-**Frontend:** React, JavaScript, Tailwind CSS, Daisy UI, Monaco Editor
+**Frontend:** React, JavaScript, Tailwind CSS, Daisy UI
 
 ## Getting Started
-
-### Prerequisites
-- Node.js (v14.x.x or higher recommended)
-- npm (v6.x.x or higher recommended)
 
 ### Installation
 
@@ -34,7 +22,7 @@
 ```
 3. Start the development server
 ```bash
-  npm start
+  npm run dev
 ```
 This will run the app in development mode. Open http://localhost:5173 to view it in the browser. The page will reload if you make edits.
 
